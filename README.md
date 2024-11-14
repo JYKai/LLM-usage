@@ -1,6 +1,7 @@
 # Learn LLM
+For LLM theory and practical training.
 
-## Material
+**Material**  
 [LLM을 활용한 실전 AI 애플리케이션 개발](https://github.com/onlybooks/llm/tree/main)
 
 ### Progress
