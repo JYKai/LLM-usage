@@ -25,6 +25,7 @@ Dive deeper into the world of LLM with [LLM을 활용한 실전 AI 애플리케�
 | 008    | [Serve sLLM](https://github.com/JYKai/LLM-usage/tree/main/008_serve-sLLM)                                | Deploy your models for real-world applications. |
 | 009    | [Develop LLM applications](https://github.com/JYKai/LLM-usage/tree/main/009_develop-LLM-application)     | Build impactful AI applications powered by LLM. |
 | 010    | [Compressing data meaning with embedding models](https://github.com/JYKai/LLM-usage/tree/main/010_data-embedding)     | Harness embeddings to compress and represent data effectively. |
+| 011    | [Improving RAG: Building embedding models tailored to your data](https://github.com/JYKai/LLM-usage/tree/main/011_RAG-improve)     | Utilize bi- and cross-encoders together to improve the performance of the RAG system. |
 
 ---
 
