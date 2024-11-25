@@ -16,15 +16,15 @@ Dive deeper into the world of LLM with [LLM을 활용한 실전 AI 애플리케�
 | 🆔 | 📂 Topic | 📑 Description |
 | :--- | ---- | ---- |
 | 001    | [LLM Background](https://github.com/JYKai/LLM-usage/tree/main/001_LLM-background)                    | Learn the history and fundamentals of Large Language Models. |
-| 002    | [Transformer](https://github.com/JYKai/usage/tree/main/002_Transformer)                              | Understand the core architecture powering LLMs. |
-| 003    | [Hugging Face Library](https://github.com/JYKai/usage/tree/main/003_hugging-face-library)            | Get hands-on with the most popular NLP library. |
-| 004    | [Make smart model](https://github.com/JYKai/usage/tree/main/004_make-smart-model)                    | Techniques for designing intelligent and efficient models. |
-| 005    | [Efficient GPU usage](https://github.com/JYKai/usage/tree/main/005_efficient-learning-gpu)           | Optimize GPU usage for faster training and inference. |
-| 006    | [Training sLLM](https://github.com/JYKai/usage/tree/main/006_train-sLLM)                             | Step-by-step guide to train smaller LLMs effectively. |
-| 007    | [Make lighter model](https://github.com/JYKai/usage/tree/main/007_make-lighter-model)                | Compress and optimize models without compromising performance. |
-| 008    | [Serve sLLM](https://github.com/JYKai/usage/tree/main/008_serve-sLLM)                                | Deploy your models for real-world applications. |
-| 009    | [Develop LLM applications](https://github.com/JYKai/usage/tree/main/009_develop-LLM-application)     | Build impactful AI applications powered by LLM. |
-| 010    | [Compressing data meaning with embedding models](https://github.com/JYKai/usage/tree/main/010_data-embedding)     | Harness embeddings to compress and represent data effectively. |
+| 002    | [Transformer](https://github.com/JYKai/LLM-usage/tree/main/002_Transformer)                              | Understand the core architecture powering LLMs. |
+| 003    | [Hugging Face Library](https://github.com/JYKai/LLM-usage/tree/main/003_hugging-face-library)            | Get hands-on with the most popular NLP library. |
+| 004    | [Make smart model](https://github.com/JYKai/LLM-usage/tree/main/004_make-smart-model)                    | Techniques for designing intelligent and efficient models. |
+| 005    | [Efficient GPU usage](https://github.com/JYKai/LLM-usage/tree/main/005_efficient-learning-gpu)           | Optimize GPU usage for faster training and inference. |
+| 006    | [Training sLLM](https://github.com/JYKai/LLM-usage/tree/main/006_train-sLLM)                             | Step-by-step guide to train smaller LLMs effectively. |
+| 007    | [Make lighter model](https://github.com/JYKai/LLM-usage/tree/main/007_make-lighter-model)                | Compress and optimize models without compromising performance. |
+| 008    | [Serve sLLM](https://github.com/JYKai/LLM-usage/tree/main/008_serve-sLLM)                                | Deploy your models for real-world applications. |
+| 009    | [Develop LLM applications](https://github.com/JYKai/LLM-usage/tree/main/009_develop-LLM-application)     | Build impactful AI applications powered by LLM. |
+| 010    | [Compressing data meaning with embedding models](https://github.com/JYKai/LLM-usage/tree/main/010_data-embedding)     | Harness embeddings to compress and represent data effectively. |
 
 ---
 
