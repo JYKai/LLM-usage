@@ -6,3 +6,7 @@ wandb/
 
 klue_mrc_mnr/
 output/
+
+data/
+sift/
+**.gz
